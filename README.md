@@ -1,6 +1,6 @@
 <h1 align="center">Hi There, I'm Zero</h1>
 <h3 align="center">A guy who codes in his freetime and a passionate Discord Bot Developer</h3>
-<a href="https://osu.ppy.sh/users/33684784"><img src="https://osu-sig.vercel.app/card?user=AutumnVN&mode=std&lang=en&mini=true" align="right"></a>
+<a href="https://osu.ppy.sh/users/33684784"><img src="https://osu-sig.vercel.app/card?user=Zero_5877&mode=std&lang=en&animation=true&hue=224" align="right"></a>
 
 - 🔭 I’m currently working on a Discord Bot [Zibin](https://github.com/Zero-Kurosaki/Zibin)
 
