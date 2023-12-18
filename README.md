@@ -1,5 +1,5 @@
 ![Header](./github-header-image.png)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=124B9C&center=true&vCenter=true&random=false&width=435&lines=Hello+There%2C+I'm+Zero!+%3E%3C;I'm+am+a+Discord+Bot+Developer+;I+like+to+play+games+like+osu!+and+genshin;Currently+working+on+Zibin)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=124B9C&center=true&vCenter=true&random=false&width=435&lines=Hello+There%2C+I'm+Zero!+%3E%3C;I'm+am+a+Discord+Bot+Developer+;I+like+to+play+games+like+osu!+and+genshin;Currently+working+on+Zibin)](https://git.io/typing-svg)
 <a href="https://osu.ppy.sh/users/33684784"><img src="https://osu-sig.vercel.app/card?user=Zero_5877&mode=std&lang=en&animation=true&hue=224" align="right"></a>
 
 - 🔭 I’m currently working on a Discord Bot [Zibin](https://github.com/Zero-Kurosaki/Zibin)
