@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **zero.sorasaki@gmail.com**
 
-![Zero's Stats](https://github-readme-stats.vercel.app/api?username=peppy&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![Zero's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AutumnVN&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <h3 align="left">Connect with me:</h3>
