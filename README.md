@@ -1,5 +1,5 @@
 ![Header](./github-header-image.png)
-<h1 align="center">Hi There, I'm Zero</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+There%2C+I'm+Zero!)](https://git.io/typing-svg)
 <h3 align="center">A guy who play osu! and codes during his freetime and a passionate Discord Bot Developer</h3>
 <a href="https://osu.ppy.sh/users/33684784"><img src="https://osu-sig.vercel.app/card?user=Zero_5877&mode=std&lang=en&animation=true&hue=224" align="right"></a>
 
