@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=124B9C&center=true&vCenter=true&random=false&width=500&height=70&lines=Hello+There%2C+I'm+Zero!+%3E%3C;I'm+am+a+Discord+Bot+Developer+;Currently+working+on+Zibin;I'm+also+a+Gamer)](https://git.io/typing-svg)
 <a href="https://osu.ppy.sh/users/33684784"><img src="https://osu-sig.vercel.app/card?user=Zero_5877&mode=std&lang=en&animation=true&hue=224" align="right"></a>
 
-- 🔭 I’m currently working on a Discord Bot project named 『 • ＰＲＯＪＥＫＴ ＡＲＣ 』
+- 🔭 I’m currently working on a Discord Bot project named None
 
 - 🌱 I’m currently learning **Javascript, CSS , HTML5 and Python**
 
