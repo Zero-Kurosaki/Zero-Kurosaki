@@ -10,7 +10,7 @@
     <p><strong>普段は邦楽を聴いてます。</strong></p>
     <p><strong>を聴くのが好きです。</strong></p>
   </div>
-  <div style="margin-top: 1em;">
+  <div style="display: flex; align-items: center; margin-top: 1em;">
     <a href="https://osu-sig.vercel.app/card?user=Zero_5877&mode=std&lang=en&animation=true&hue=255&skills=true&cycleskillsstats=true&skillfigures=true">
       <img src="https://osu-sig.vercel.app/card?user=Zero_5877&mode=std&lang=en&animation=true&hue=255&skills=true&cycleskillsstats=true&skillfigures=true" alt="Osu Card" />
     </a>
