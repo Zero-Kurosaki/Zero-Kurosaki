@@ -16,8 +16,6 @@
     <p><strong>普段は邦楽を聴いてます。</strong></p>
     <p><strong>を聴くのが好きです。</strong></p>
   </div>
-  
-  <img src="https://osu-sig.vercel.app/card?user=Zero_5877&mode=std&lang=en&animation=true&hue=255&skills=true&cycleskillsstats=true&skillfigures=true" style="margin-left: 20px; height: auto;" />
 </div>
 
 
