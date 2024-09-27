@@ -6,8 +6,8 @@
   </a>
 </div>
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <div style="max-width: 50%;">
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex-grow: 1;">
     <p>『 <strong>黒崎零について</strong> 』</p>
     <p><strong>ガチャ大好きオタク。</strong></p>
     <p><strong>ガチャゲー、リズムゲー、FPSが好きです！</strong></p>
@@ -17,7 +17,7 @@
     <p><strong>を聴くのが好きです。</strong></p>
   </div>
   
-  <img src="https://osu-sig.vercel.app/card?user=Zero_5877&mode=std&lang=en&animation=true&hue=255&skills=true&cycleskillsstats=true&skillfigures=true" style="margin-left: 20px;" />
+  <img src="https://osu-sig.vercel.app/card?user=Zero_5877&mode=std&lang=en&animation=true&hue=255&skills=true&cycleskillsstats=true&skillfigures=true" style="margin-left: 20px; height: auto;" />
 </div>
 
 
