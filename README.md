@@ -1,6 +1,6 @@
 ![Header](./thumb-1920-1262561.png)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B32265&background=424DFF00&center=true&vCenter=true&width=435&lines=++Nyaharro!+Im+Zero;Im+a+gamer+who+like+to+try+new+stuff!;I+mainly+play+gacha+games+and+rhythm+games;I+also+sometimes+play+fps+too!)](https://git.io/typing-svg)
-<a href="https://osu.ppy.sh/users/33684784"><img src="https://osu-sig.vercel.app/card?user=Zero_5877&mode=std&lang=en&animation=true&hue=224" align="right"></a>
+
 
 
 『 **黒崎零について** 󠁛󠀰󠁢󠀴󠀴󠁤󠀬󠀣』 󠁛󠀣󠀰󠁢󠀴󠁢󠀴󠁤󠀬󠀣󠀱󠀳󠀶󠀴󠀴󠀴󠁝
