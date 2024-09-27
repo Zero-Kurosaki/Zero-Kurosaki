@@ -1,4 +1,9 @@
 ![Header](./thumb-1920-1262561.png)
+<div align="right">
+    <a href="https://osu-sig.vercel.app/card?user=Zero_5877&mode=std&lang=en&animation=true&hue=255&skills=true&cycleskillsstats=true&skillfigures=true">
+        <img src="https://osu-sig.vercel.app/card?user=Zero_5877&mode=std&lang=en&animation=true&hue=255&skills=true&cycleskillsstats=true&skillfigures=true" alt="Osu Card" />
+    </a>
+</div>
 
 <div style="text-align: center;">
   <a href="https://git.io/typing-svg">
