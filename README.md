@@ -6,18 +6,19 @@
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=B32265&background=424DFF00&width=435&lines=++Nyaharro!+Im+Zero;Im+a+gamer+who+like+to+try+new+stuff!;I+mainly+play+gacha+games+and+rhythm+games;I+also+sometimes+play+fps+too!" />
     </a>
 
-    『 **黒崎零について** 』  
-    **ガチャ大好きオタク。**  
-    **ガチャゲー、リズムゲー、FPSが好きです！**  
-    **vtuber見るのも好き。**  
-    **暇さえあればコーディングしてます。**  
+    『 <strong>黒崎零について</strong> 』  
+    <strong>ガチャ大好きオタク。</strong>  
+    <strong>ガチャゲー、リズムゲー、FPSが好きです！</strong>  
+    <strong>vtuber見るのも好き。</strong>  
+    <strong>暇さえあればコーディングしてます。</strong>  
 
-    **普段は邦楽を聴いてます。**  
-    **を聴くのが好きです。**
+    <strong>普段は邦楽を聴いてます。</strong>  
+    <strong>を聴くのが好きです。</strong>
   </div>
   
   <img src="https://osu-sig.vercel.app/card?user=Zero_5877&mode=std&lang=en&animation=true&hue=255&skills=true&cycleskillsstats=true&skillfigures=true" style="margin-left: 20px;" />
 </div>
+
 
 ![Zero's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AutumnVN&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
