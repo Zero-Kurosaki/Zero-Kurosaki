@@ -1,6 +1,6 @@
 ![Header](./thumb-1920-1262561.png)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=B32265&background=424DFF00&width=435&lines=++Nyaharro!+Im+Zero;Im+a+gamer+who+like+to+try+new+stuff!;I+mainly+play+gacha+games+and+rhythm+games;I+also+sometimes+play+fps+too!)](https://git.io/typing-svg)
-<img src="/card?user=Zero_5877&mode=std&lang=en&animation=true&hue=255&skills=true&cycleskillsstats=true&skillfigures=true" style="float: right;" />
+<img src="/card?user=Zero_5877&mode=std&lang=en&animation=true&hue=255&skills=true&cycleskillsstats=true&skillfigures=true" />
 
 
 
