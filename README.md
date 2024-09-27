@@ -1,26 +1,23 @@
 ![Header](./thumb-1920-1262561.png)
 
-<div style="display: flex; align-items: center;">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=B32265&background=424DFF00&width=435&lines=++Nyaharro!+Im+Zero;Im+a+gamer+who+like+to+try+new+stuff!;I+mainly+play+gacha+games+and+rhythm+games;I+also+sometimes+play+fps+too!" />
-  </a>
+<div style="display: flex; align-items: flex-start;">
+  <div>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=B32265&background=424DFF00&width=435&lines=++Nyaharro!+Im+Zero;Im+a+gamer+who+like+to+try+new+stuff!;I+mainly+play+gacha+games+and+rhythm+games;I+also+sometimes+play+fps+too!" />
+    </a>
+
+    『 **黒崎零について** 』  
+    **ガチャ大好きオタク。**  
+    **ガチャゲー、リズムゲー、FPSが好きです！**  
+    **vtuber見るのも好き。**  
+    **暇さえあればコーディングしてます。**  
+
+    **普段は邦楽を聴いてます。**  
+    **を聴くのが好きです。**
+  </div>
+  
   <img src="https://osu-sig.vercel.app/card?user=Zero_5877&mode=std&lang=en&animation=true&hue=255&skills=true&cycleskillsstats=true&skillfigures=true" style="margin-left: 20px;" />
 </div>
-
-
-
-
-
-
-『 **黒崎零について** 󠁛󠀰󠁢󠀴󠀴󠁤󠀬󠀣』 󠁛󠀣󠀰󠁢󠀴󠁢󠀴󠁤󠀬󠀣󠀱󠀳󠀶󠀴󠀴󠀴󠁝
-
-**ガチャ大好きオタク。**
-**ガチャゲー、リズムゲー、FPSが好きです！**
-**vtuber見るのも好き。**
-**暇さえあればコーディングしてます。**
-
-**普段は邦楽を聴いてます。**
-**を聴くのが好きです。**
 
 ![Zero's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AutumnVN&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
