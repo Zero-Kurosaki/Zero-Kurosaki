@@ -6,8 +6,8 @@
   </a>
 </div>
 
-<div style="display: flex; align-items: flex-start;">
-  <div>
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div style="max-width: 50%;">
     <p>『 <strong>黒崎零について</strong> 』</p>
     <p><strong>ガチャ大好きオタク。</strong></p>
     <p><strong>ガチャゲー、リズムゲー、FPSが好きです！</strong></p>
@@ -19,6 +19,7 @@
   
   <img src="https://osu-sig.vercel.app/card?user=Zero_5877&mode=std&lang=en&animation=true&hue=255&skills=true&cycleskillsstats=true&skillfigures=true" style="margin-left: 20px;" />
 </div>
+
 
 
 ![Zero's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AutumnVN&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
