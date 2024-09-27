@@ -3,15 +3,15 @@
 <a href="https://osu.ppy.sh/users/33684784"><img src="https://osu-sig.vercel.app/card?user=Zero_5877&mode=std&lang=en&animation=true&hue=224" align="right"></a>
 
 
-##『 **黒崎零について** 󠁛󠀰󠁢󠀴󠀴󠁤󠀬󠀣』 󠁛󠀣󠀰󠁢󠀴󠁢󠀴󠁤󠀬󠀣󠀱󠀳󠀶󠀴󠀴󠀴󠁝
+『 **黒崎零について** 󠁛󠀰󠁢󠀴󠀴󠁤󠀬󠀣』 󠁛󠀣󠀰󠁢󠀴󠁢󠀴󠁤󠀬󠀣󠀱󠀳󠀶󠀴󠀴󠀴󠁝
 
-###**ガチャ大好きオタク。**
-###**ガチャゲー、リズムゲー、FPSが好きです！**
-###**vtuber見るのも好き。**
-###**暇さえあればコーディングしてます。**
+**ガチャ大好きオタク。**
+**ガチャゲー、リズムゲー、FPSが好きです！**
+**vtuber見るのも好き。**
+**暇さえあればコーディングしてます。**
 
-###**普段は邦楽を聴いてます。**
-##**を聴くのが好きです。**
+**普段は邦楽を聴いてます。**
+**を聴くのが好きです。**
 
 ![Zero's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AutumnVN&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
